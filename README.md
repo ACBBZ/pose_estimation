@@ -1,3 +1,3 @@
 # pose_estimation
 
-Use jetson-inference
+Use jetson-inference to calculate
